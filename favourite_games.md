@@ -8,4 +8,4 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Sea of Thieves
-* Stardew Vallet
+* Stardew Valley
