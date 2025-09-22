@@ -7,5 +7,7 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* Portal 2
 * Sea of Thieves
 * Stardew Valley
+
